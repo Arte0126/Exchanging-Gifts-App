@@ -1,1 +1,1 @@
-# MCCG
+# Exchanging Gifts App
